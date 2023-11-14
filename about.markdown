@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a PhD in Computer Science at the University of Milan. I’m primarily interested in Machine Learning and Artificial Intelligence fields. I mainly focused on Computer Vision and Visual Object Tracking. I works also on building new Deep Fuzzy Neural Network systems, Weather Forecasting, Naval Engineering related problems and Cancer Prediction in Bioinformatics. I also worked on Emotion Recognition from faces and speech, and on Natural Language Processing for Sentiment Analysis. Actually, I am a lecturer at University of Naples Parthenope and I work as researcher at Unlimited Technology srl and I am focused on artificial neural network modelling, medical application of AI methodologies and Explainable AI.
