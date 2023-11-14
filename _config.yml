@@ -116,9 +116,9 @@ author:
   location         : "Italy"
   email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "ORCID"
+      icon: "fas fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-6589-9323"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/emanueldinardo/"
@@ -130,6 +130,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "ORCID"
+      icon: "fas fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-6589-9323"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/emanueldinardo/"
