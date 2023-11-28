@@ -5,5 +5,8 @@ authors: Alessandro La Ferlita, Yan Qi, Emanuel Di Nardo, Karoline Moenster, Tho
 publication: Journal of Marine Science and Engineering
 year: 2023
 doi: https://doi.org/10.3390/jmse11101854
-bibtex: qua
+bibtex: |
+    ```
+    fdsafdsa
+    ```
 ---
