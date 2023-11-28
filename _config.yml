@@ -22,7 +22,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
 # Site Settings
-locale                   : "it-IT"
+locale                   : "en-US"
 title                    : "Emanuel Di Nardo Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -274,3 +274,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
