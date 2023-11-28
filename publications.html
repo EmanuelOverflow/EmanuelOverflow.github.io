@@ -30,11 +30,15 @@ author_profile: true
   <div class="pubtitle">{{ pub.title }}</div>
   <div class="pubauthors">{{ pub.authors }}</div>
   <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+  <div class="publinks">
+    <a href="{{ pub.doi }}" target="_blank" class="btn btn--inverse">DOI</a>
+  </div>
   
-  <div class="bibtex">
+  <!--<div class="bibtex">
     {% highlight bibtex %}
     {{ pub.bibtex }}
     {% endhighlight %}
-  </div>
+  </div>-->
+
 </div>
 {% endfor %}
