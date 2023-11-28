@@ -5,9 +5,9 @@ authors: Alessandro La Ferlita, Yan Qi, Emanuel Di Nardo, Karoline Moenster, Tho
 publication: Journal of Marine Science and Engineering
 year: 2023
 doi: https://doi.org/10.3390/jmse11101854
-bibtex: ```latex
+bibtex: ```
 @article{la2023power,
-  title={Power Prediction of a 15,000 TEU Containership: Deep-Learning Algorithm Compared to a Physical Model},
+  title={"Power Prediction of a 15,000 TEU Containership: Deep-Learning Algorithm Compared to a Physical Model"},
   author={La Ferlita, Alessandro and Qi, Yan and Di Nardo, Emanuel and Moenster, Karoline and Schellin, Thomas E and EL Moctar, Ould and Rasewsky, Christoph and Ciaramella, Angelo},
   journal={Journal of Marine Science and Engineering},
   volume={11},
