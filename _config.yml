@@ -286,4 +286,5 @@ defaults:
       type: publications
     values:
       layout: single
-      share: false
+      classes: wide
+      author_profile: true
