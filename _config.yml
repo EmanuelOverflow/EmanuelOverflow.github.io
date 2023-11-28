@@ -263,7 +263,7 @@ compress_html:
 
 collections:
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 # Defaults
