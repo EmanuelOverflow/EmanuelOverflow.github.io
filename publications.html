@@ -11,6 +11,11 @@ author_profile: true
   <div class="pubtitle">{{ pub.title }}</div>
   <div class="pubauthors">{{ pub.authors }}</div>
   <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
-  <div class="bibtex"><pre>{{ pub.bibtex }}</pre></div>
+  
+  <div class="bibtex">
+    {% highlight latex %}
+        {{ pub.bibtex }}
+    {% endhighlight %}
+</div>
 </div>
 {% endfor %}
