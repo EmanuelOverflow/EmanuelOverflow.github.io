@@ -144,6 +144,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _publications
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -260,6 +261,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -281,3 +286,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: false
