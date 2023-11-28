@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Application of Different Methods to Determine the Ultimate Strength of Ships in Bending"
+authors: Thomas Lindemann, Alessandro La Ferlita, Emanuel Di Nardo, Patrick Kaeding
+publication: International Conference on Offshore Mechanics and Arctic Engineering
+year: 2023
+doi: https://doi.org/10.1115/OMAE2023-103731
+bibtex: |
+    @inproceedings{lindemann2023application,
+      title={Application of Different Methods to Determine the Ultimate Strength of Ships in Bending},
+      author={Lindemann, Thomas and La Ferlita, Alessandro and Di Nardo, Emanuel and Kaeding, Patrick},
+      booktitle={International Conference on Offshore Mechanics and Arctic Engineering},
+      volume={86847},
+      pages={V002T02A059},
+      year={2023},
+      organization={American Society of Mechanical Engineers}
+    }
+---
