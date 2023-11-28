@@ -7,6 +7,15 @@ year: 2023
 doi: https://doi.org/10.3390/jmse11101854
 bibtex: |
     ```
-    fdsafdsa
+    @article{la2023power,
+        title={Power Prediction of a 15,000 TEU Containership: Deep-Learning Algorithm Compared to a Physical Model},
+        author={La Ferlita, Alessandro and Qi, Yan and Di Nardo, Emanuel and Moenster, Karoline and Schellin, Thomas E and EL Moctar, Ould and Rasewsky, Christoph and Ciaramella, Angelo},
+        journal={Journal of Marine Science and Engineering},
+        volume={11},
+        number={10},
+        pages={1854},
+        year={2023},
+        publisher={MDPI}
+    }
     ```
 ---
