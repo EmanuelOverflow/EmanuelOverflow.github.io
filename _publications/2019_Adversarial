@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Adversarial Learning for Visual Tracking Research Idea"
+authors: Emanuel Di Nardo
+publication: Discussion and Doctoral Consortium papers of AI*IA 2019
+year: 2019
+link: https://ceur-ws.org/Vol-2495/paper12.pdf
+bibtex: |
+  @inproceedings{di2019adversarial,
+  title={Adversarial Learning for Visual Tracking Research Idea},
+  author={Di Nardo, Emanuel and others},
+  booktitle={CEUR WORKSHOP PROCEEDINGS},
+  volume={2495},
+  pages={101--106},
+  year={2019},
+  organization={CEUR Workshop Proceedings}
+  }
+---

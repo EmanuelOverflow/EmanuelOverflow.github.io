@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Distributed Training of 3DPyranet over Intel AI DevCloud Platform"
+authors: Emanuel Di Nardo, Fabio Narducci
+publication: International Conference on Internet and Distributed Computing Systems
+year: 2021
+doi: https://doi.org/10.1007/978-3-030-34914-1_46
+bibtex: |
+  @inproceedings{di2019distributed,
+  title={Distributed Training of 3DPyranet over Intel AI DevCloud Platform},
+  author={Di Nardo, Emanuel and Narducci, Fabio},
+  booktitle={International Conference on Internet and Distributed Computing Systems},
+  pages={491--497},
+  year={2019},
+  organization={Springer}
+  }
+---

@@ -1,0 +1,17 @@
+---
+layout: default
+title: "EmoP3D: Unsupervised cyber bullying detection in social networks"
+authors: Michele Di Capua, Emanuel Di Nardo, Alfredo Petrosino
+publication: 23rd International conference on pattern recognition (ICPR)
+year: 2016
+doi: https://doi.org/10.1109/ICPR.2016.7899672
+bibtex: |
+  @inproceedings{di2016unsupervised,
+  title={Unsupervised cyber bullying detection in social networks},
+  author={Di Capua, Michele and Di Nardo, Emanuel and Petrosino, Alfredo},
+  booktitle={2016 23rd International conference on pattern recognition (ICPR)},
+  pages={432--437},
+  year={2016},
+  organization={IEEE}
+  }
+---

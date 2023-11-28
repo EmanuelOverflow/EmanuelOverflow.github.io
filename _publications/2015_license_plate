@@ -1,0 +1,17 @@
+---
+layout: default
+title: Vdeo-based access control by automatic license plate recognition
+authors: Emanuel Di Nardo, Lucia Maddalena, Alfredo Petrosino
+publication: Advances in Neural Networks: Computational and Theoretical Issues
+year: 2015
+doi: https://doi.org/10.1007/978-3-319-18164-6_11
+bibtex: |
+  @article{di2015video,
+  title={Video-based access control by automatic license plate recognition},
+  author={Di Nardo, Emanuel and Maddalena, Lucia and Petrosino, Alfredo},
+  journal={Advances in Neural Networks: Computational and Theoretical Issues},
+  pages={103--117},
+  year={2015},
+  publisher={Springer}
+  }
+---

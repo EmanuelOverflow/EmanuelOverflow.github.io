@@ -1,0 +1,16 @@
+---
+layout: default
+title: EmoP3D: A brain like pyramidal deep neural network for emotion recognition
+authors: Emanuel Di Nardo, Alfredo Petrosino, Ihsan Ullah
+publication: Proceedings of the European Conference on Computer Vision (ECCV) Workshops
+year: 2018
+doi: https://doi.org/10.1007/978-3-030-11015-4_46
+bibtex: |
+  @inproceedings{di2018emop3d,
+  title={EmoP3D: A brain like pyramidal deep neural network for emotion recognition},
+  author={Di Nardo, Emanuel and Petrosino, Alfredo and Ullah, Ihsan},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV) Workshops},
+  pages={0--0},
+  year={2018}
+  }
+---
