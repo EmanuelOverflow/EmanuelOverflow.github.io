@@ -117,7 +117,7 @@ author:
   email            : 
   links:
     - label: "ORCID"
-      icon: "fas fa-brands fa-orcid"
+      icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-6589-9323"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
@@ -131,7 +131,7 @@ author:
 footer:
   links:
     - label: "ORCID"
-      icon: "fas fa-brands fa-orcid"
+      icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-6589-9323"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
