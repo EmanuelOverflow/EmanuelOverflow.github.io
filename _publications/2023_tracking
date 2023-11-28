@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Tracking vision transformer with class and regression tokens"
+authors: Emanuel Di Nardo, Angelo Ciaramella
+publication: Information Sciences
+year: 2023
+doi: https://doi.org/10.1016/j.ins.2022.11.055
+bibtex: |
+    @article{di2023tracking,
+    title={Tracking vision transformer with class and regression tokens},
+    author={Di Nardo, Emanuel and Ciaramella, Angelo},
+    journal={Information Sciences},
+    volume={619},
+    pages={276--287},
+    year={2023},
+    publisher={Elsevier}
+    }
+---
