@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Deep Neural Network (DNN) Method to predict the displacement behavior of neutral axis for ships in vertical bending"
+authors: Alessandro La Ferlita, Emanuel Di Nardo, Massimo Macera, Thomas Lindemann, Angelo Ciaramella, Patrick Kaeding
+publication: Technology and Science for the Ships of the Future
+year: 2022
+doi: https://doi.org/10.3233/PMST220013
+bibtex: |
+  @incollection{la2022deep,
+  title={Deep Neural Network (DNN) Method to Predict the Displacement Behavior of Neutral Axis for Ships in Vertical Bending},
+  author={La Ferlita, Alessandro and Di Nardo, Emanuel and Macera, Massimo and Lindemann, Thomas and Ciaramella, Angelo and Kaeding, Patrick},
+  booktitle={Technology and Science for the Ships of the Future},
+  pages={95--103},
+  year={2022},
+  publisher={IOS Press}
+  }
+---

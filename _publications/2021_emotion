@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Emotion recognition at the edge with AI specific low power architectures"
+authors: Emanuel Di Nardo, Vincenzo Santopietro, Alfredo Petrosino
+publication: Microprocessors and Microsystems
+year: 2021
+doi: https://doi.org/10.1016/j.micpro.2021.104299
+bibtex: |
+  @article{di2021emotion,
+  title={Emotion recognition at the edge with AI specific low power architectures},
+  author={Di Nardo, Emanuel and Santopietro, Vincenzo and Petrosino, Alfredo},
+  journal={Microprocessors and Microsystems},
+  volume={85},
+  pages={104299},
+  year={2021},
+  publisher={Elsevier}
+  }
+---
