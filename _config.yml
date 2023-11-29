@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Emanuel Di Nardo"
-  avatar           : /assets/images/bio-image.jpeg"
+  avatar           : "/assets/images/bio-image.jpeg"
   bio              : "Computer Science Researcher"
   location         : "Italy"
   email            : 
