@@ -5,7 +5,7 @@ classes: wide
 permalink: /teach/
 ---
 
-## Unversity of Naples Parthenope
+## University of Naples Parthenope
 
 ### Computer Science
 
