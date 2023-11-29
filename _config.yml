@@ -112,8 +112,8 @@ analytics:
 author:
   name             : "Emanuel Di Nardo"
   avatar           : "/assets/images/bio-image.jpeg"
-  bio              : "Computer Science Researcher"
-  location         : "Italy"
+  bio              : "PhD in Computer Science"
+  location         : "Naples, Italy"
   email            : 
   links:
     - label: "ORCID"
