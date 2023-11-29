@@ -45,13 +45,13 @@ permalink: /teach/
 
 ### Supervised Thesis
 
-## M.Sc. in Applied Computer Science (Machine Leraning and Big Data)
+#### M.Sc. in Applied Computer Science (Machine Leraning and Big Data)
 
 * Sparse MiT R-CNN: a transformer-based two-stage object detector - 2023
 * KeepViT: A Long-Term Visual Object Tracker with a Vision Transformer - 2023
 * ViT-MOT: A Vision Transformer for Multi Object Trackin - 2023
 
-## B.SC. Copmuter Science
+#### B.SC. Copmuter Science
 
-* 
+* prova prova
 
