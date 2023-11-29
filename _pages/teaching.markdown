@@ -93,12 +93,14 @@ _L. Hettiarachchige_
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _S. Prisco_
 
-* Generazione di immagini a partire da elettroencefalogrammi mediante utilizzo di metodologie di intelligenza artificiale
+* Generazione di immagini a partire da elettroencefalogrammi mediante utilizzo  
+di metodologie di intelligenza artificiale
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _D. Sorge_
 
 * Identificazione della localizzazione subcellulare degli
-lncRNA con caratteristiche multiple
+lncRNA  
+con caratteristiche multiple
 [2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _T. Leone_
 
