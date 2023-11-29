@@ -36,15 +36,22 @@ permalink: /teach/
 
 ### Tutor
 
-* Apple Foundation - 
+* Apple Foundation 
 [2018](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2019](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-* Machine Learning (M.Sc. in Applied Computer Science) - 2020 / 2021
-* Intelligent Signal Processing (M.Sc. in Applied Computer Science) - 2020 / 2021
-* Programming Language I (B.Sc. in Computer Science) - 2016
+* Machine Learning (M.Sc. in Applied Computer Science)
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+* Intelligent Signal Processing (M.Sc. in Applied Computer Science)
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+* Programming Language I (B.Sc. in Computer Science)
+[2016](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 
 ### Supervised Thesis
