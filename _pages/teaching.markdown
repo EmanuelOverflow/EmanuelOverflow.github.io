@@ -93,15 +93,15 @@ _L. Hettiarachchige_
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _S. Prisco_
 
-* Generazione di immagini a partire da elettroencefalogrammi mediante utilizzo  
-di metodologie di intelligenza artificiale
+* Generazione di immagini a partire da elettroencefalogrammi mediante utilizzo 
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+di metodologie di intelligenza artificiale  
 _D. Sorge_
 
 * Identificazione della localizzazione subcellulare degli
-lncRNA  
-con caratteristiche multiple
+lncRNA
 [2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+con caratteristiche multiple  
 _T. Leone_
 
 * Speech emotion recognition mediante deep neural network
@@ -116,6 +116,7 @@ _A. Lombardi_
 [2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _A. Di Marino_
 
-* Previsione di titoli azionari su piattaforma ios mediante approccio di machine learning multimodale
+* Previsione di titoli azionari su piattaforma ios mediante approccio
 [2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+di machine learning multimodale  
 _A. Guerra_
