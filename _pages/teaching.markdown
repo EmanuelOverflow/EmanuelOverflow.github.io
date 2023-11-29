@@ -8,8 +8,11 @@ permalink: /teach/
 
 ### Computer Science
 
-* Computer Networks - 2023
-* Programming Language III - 2022
+* Computer Networks
+    2023
+    
+* Programming Language III
+    2022
 
 
 ### Ship Management
@@ -34,4 +37,16 @@ permalink: /teach/
 * Machine Learning (M.Sc. in Applied Computer Science) - 2020 / 2021
 * Intelligent Signal Processing (M.Sc. in Applied Computer Science) - 2020 / 2021
 * Programming Language I (B.Sc. in Computer Science) - 2016
+
+
+### Supervised Thesis
+
+## M.Sc. in Applied Computer Science (Machine Leraning and Big Data)
+
+* Sparse MiT R-CNN: a transformer-based two-stage object detector - November 2023
+* KeepViT: A Long-Term Visual Object Tracker with a Vision Transformer - 
+
+## B.SC. Copmuter Science
+
+* 
 
