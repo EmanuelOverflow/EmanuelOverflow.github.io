@@ -58,7 +58,7 @@ permalink: /teach/
 
 ### Supervised Thesis
 
-#### Applied Computer Science (Machine Leraning and Big Data) [M.Sc.](#){: .align-right} 
+#### Applied Computer Science (Machine Leraning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"} 
 
 * Sparse MiT R-CNN: a transformer-based two-stage object detector
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
@@ -68,7 +68,7 @@ permalink: /teach/
 * ViT-MOT: A Vision Transformer for Multi Object Trackin
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-#### B.Sc. Copmuter Science
+#### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
 * prova prova
 
