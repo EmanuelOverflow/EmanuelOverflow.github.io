@@ -10,6 +10,7 @@ permalink: /teach/
 ### Computer Science
 
 * Computer Networks
+{: style="margin-bottom: 0;"}
 
 [2023](#){: .btn .btn--inverse style="margin-top: -5px; font-size: 0.5em !important;"}
 
@@ -46,8 +47,9 @@ permalink: /teach/
 
 ## M.Sc. in Applied Computer Science (Machine Leraning and Big Data)
 
-* Sparse MiT R-CNN: a transformer-based two-stage object detector - November 2023
-* KeepViT: A Long-Term Visual Object Tracker with a Vision Transformer - 
+* Sparse MiT R-CNN: a transformer-based two-stage object detector - 2023
+* KeepViT: A Long-Term Visual Object Tracker with a Vision Transformer - 2023
+* ViT-MOT: A Vision Transformer for Multi Object Trackin - 2023
 
 ## B.SC. Copmuter Science
 
