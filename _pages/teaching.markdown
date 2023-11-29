@@ -10,11 +10,12 @@ permalink: /teach/
 ### Computer Science
 
 * Computer Networks
+
 [2023](#){: .btn .btn--inverse style="margin-top: -5px; font-size: 0.5em !important;"}
 
 
-* Programming Language III 
-[2022](#){: .btn .btn--inverse .btn--small}
+* Programming Language III - 
+[2022](#){: .btn .btn--inverse style="margin-top: -5px; font-size: 0.5em !important;"}
 
 
 ### Ship Management
