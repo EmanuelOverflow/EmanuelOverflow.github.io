@@ -9,14 +9,17 @@ permalink: /teach/
 ### Computer Science
 
 * Computer Networks
-  - 2023
 
-* Programming Language III [2022](#){: .btn .btn--inverse}
+[2023](#){: .btn .btn--inverse .btn--small}
+
+
+* Programming Language III 
+[2022](#){: .btn .btn--inverse .btn--small}
 
 
 ### Ship Management
 
-* Introduction to Computer Science - 2022{: .btn .btn--inverse}
+* Introduction to Computer Science - 2022
 
 
 ### Master in Entrepreneurship and Innovation Management
