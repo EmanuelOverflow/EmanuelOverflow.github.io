@@ -10,6 +10,6 @@ Emanuel Di Nardo received a Ph.D. from University of Milan in 2022 with a focus 
 ## Reviews
 I served as reviewers for the following international journals
 
-* Information Sciences (https://www.sciencedirect.com/journal/information-sciences)[Link]
-* Engineering Applications of Artificial Intelligence (https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)[Link]
+* Information Sciences [Link](https://www.sciencedirect.com/journal/information-sciences)
+* Engineering Applications of Artificial Intelligence [Link](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 * Page under construction...
