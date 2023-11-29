@@ -10,23 +10,22 @@ permalink: /teach/
 ### Computer Science
 
 * Computer Networks
-{: style="margin-bottom: 0;"}
-
-[2023](#){: .btn .btn--inverse style="margin-top: -5px; font-size: 0.5em !important;"}
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 
-* Programming Language III - 
-[2022](#){: .btn .btn--inverse style="margin-top: -5px; font-size: 0.5em !important;"}
+* Programming Language III 
+[2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 
 ### Ship Management
 
-* Introduction to Computer Science - 2022
-
+* Introduction to Computer Science
+[2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Master in Entrepreneurship and Innovation Management
 
-* Introduction to Machine Learning programming on Apple devices using CoreML kit - 2022
+* Introduction to Machine Learning programming on Apple devices using CoreML kit
+[2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ---
 
@@ -37,7 +36,12 @@ permalink: /teach/
 
 ### Tutor
 
-* Apple Foundation - 2018 / 2019 / 2020 / 2021
+* Apple Foundation - 
+[2018](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2019](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 * Machine Learning (M.Sc. in Applied Computer Science) - 2020 / 2021
 * Intelligent Signal Processing (M.Sc. in Applied Computer Science) - 2020 / 2021
 * Programming Language I (B.Sc. in Computer Science) - 2016
