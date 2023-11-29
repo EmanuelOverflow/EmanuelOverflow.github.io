@@ -80,7 +80,7 @@ _D. De Cicco_
 _V. Silvio_
 
 * Real-time Semantic Segmentation for Autonomous driving
-[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+[2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _A. Lombardi_
 
 #### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
@@ -93,4 +93,27 @@ _L. Hettiarachchige_
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _S. Prisco_
 
+* Generazione di immagini a partire da elettroencefalogrammi mediante utilizzo di metodologie di intelligenza artificiale
+[2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_D. Sorge_
 
+* Identificazione della localizzazione subcellulare degli
+lncRNA con caratteristiche multiple
+[2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_T. Leone_
+
+* Speech emotion recognition mediante deep neural network
+[2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_M. Peluso_
+
+* SARS-CoV-2: Model-Agnostic Meta-Learning per la Classificazione di immagini TC
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_A. Lombardi_
+
+* Estrazione di Feature mediante OdeNet per un Tracker Video
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_A. Di Marino_
+
+* Previsione di titoli azionari su piattaforma ios mediante approccio di machine learning multimodale
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_A. Guerra_
