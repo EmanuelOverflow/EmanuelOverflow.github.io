@@ -31,7 +31,9 @@ permalink: /teach/
 
 ### Extra-curricula courses
 
-* Apple Foundation - 2022 / 2023
+* Apple Foundation
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 
 ### Tutor
@@ -56,7 +58,7 @@ permalink: /teach/
 
 ### Supervised Thesis
 
-#### M.Sc. in Applied Computer Science (Machine Leraning and Big Data)
+#### Applied Computer Science (Machine Leraning and Big Data) [M.Sc.](#){: .align-right} 
 
 * Sparse MiT R-CNN: a transformer-based two-stage object detector
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
@@ -66,7 +68,7 @@ permalink: /teach/
 * ViT-MOT: A Vision Transformer for Multi Object Trackin
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-#### B.SC. Copmuter Science
+#### B.Sc. Copmuter Science
 
 * prova prova
 
