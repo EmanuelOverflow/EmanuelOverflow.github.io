@@ -37,18 +37,18 @@ permalink: /teach/
 ### Tutor
 
 * Apple Foundation 
-[2018](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
-[2019](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
-[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2019](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2018](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * Machine Learning (M.Sc. in Applied Computer Science)
-[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * Intelligent Signal Processing (M.Sc. in Applied Computer Science)
-[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * Programming Language I (B.Sc. in Computer Science)
 [2016](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
@@ -58,9 +58,13 @@ permalink: /teach/
 
 #### M.Sc. in Applied Computer Science (Machine Leraning and Big Data)
 
-* Sparse MiT R-CNN: a transformer-based two-stage object detector - 2023
-* KeepViT: A Long-Term Visual Object Tracker with a Vision Transformer - 2023
-* ViT-MOT: A Vision Transformer for Multi Object Trackin - 2023
+* Sparse MiT R-CNN: a transformer-based two-stage object detector
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+* KeepViT: A Long-Term Visual Object Tracker with a Vision [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+* ViT-MOT: A Vision Transformer for Multi Object Trackin
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 #### B.SC. Copmuter Science
 
