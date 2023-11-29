@@ -60,16 +60,37 @@ permalink: /teach/
 
 #### Applied Computer Science (Machine Leraning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"} 
 
-* M. Zito - Sparse MiT R-CNN: a transformer-based two-stage object detector
-[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+* Sparse MiT R-CNN: a transformer-based two-stage object detector
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_M. Zito_
 
 * KeepViT: A Long-Term Visual Object Tracker with a Vision [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
-V. Bevilacqua
+_V. Bevilacqua_
 
-* A. Di Marino - ViT-MOT: A Vision Transformer for Multi Object Tracking
-[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+* ViT-MOT: A Vision Transformer for Multi Object Tracking
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_A. Di Marino_
+
+* Perceptual learning for online visual object tracking 
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_D. De Cicco_
+
+* Discrete Diffusion Model for Image Captioning by Self-Critical Learning
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_V. Silvio_
+
+* Real-time Semantic Segmentation for Autonomous driving
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_A. Lombardi_
 
 #### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
-* prova prova
+* Super-resolution di agenti inquinanti atmosferici a bassa risoluzione 
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_L. Hettiarachchige_
+
+* Robustezza di modelli di diffusione per super resolution
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_S. Prisco_
+
 
