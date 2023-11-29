@@ -9,10 +9,10 @@ permalink: /teach/
 ### Computer Science
 
 * Computer Networks
-    2023
-    
+ - 2023
+
 * Programming Language III
-    2022
+ - 2022
 
 
 ### Ship Management
