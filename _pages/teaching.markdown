@@ -60,12 +60,13 @@ permalink: /teach/
 
 #### Applied Computer Science (Machine Leraning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"} 
 
-* Sparse MiT R-CNN: a transformer-based two-stage object detector
+* M. Zito - Sparse MiT R-CNN: a transformer-based two-stage object detector
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-* KeepViT: A Long-Term Visual Object Tracker with a Vision [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+* KeepViT: A Long-Term Visual Object Tracker with a Vision [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+V. Bevilacqua
 
-* ViT-MOT: A Vision Transformer for Multi Object Trackin
+* A. Di Marino - ViT-MOT: A Vision Transformer for Multi Object Tracking
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 #### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
