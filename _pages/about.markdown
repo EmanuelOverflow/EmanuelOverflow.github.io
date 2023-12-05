@@ -22,7 +22,7 @@ Member of the following associations:
 PhD in Computer Science (XXXIV cycle) at University of Milan
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-* Advanced Methodologies for Visual Object Tracking [Link](https://hdl.handle.net/2434/931766){: .btn .btn--inverse}
+* Advanced Methodologies for Visual Object Tracking [Link](https://hdl.handle.net/2434/931766){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 
 
 Master Degree in Applied Computer Science at University of Naples Parthenope
