@@ -22,3 +22,4 @@ I served as reviewer for the following international journals and conferences
 ### Conferences
 
 * The International Joint Conference on Neural Networks
+* Computational Intelligence methods for Bioinformatics and Biostatistics

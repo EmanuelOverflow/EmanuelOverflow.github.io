@@ -17,38 +17,15 @@ Member of the following associations:
 * CVPL
 
 
-## Conferences
+## Education
 
-### Publication Chair
+PhD in Computer Science (XXXIV cycle) at University of Milan
+[2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-* The 2nd Italian Conference on Big Data and Data Science (ITADATA23) Naples, Italy
-[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
-
-
-### Session Chair
-
-* _Bioinformatics for Ecology_ - The 18th Bioinformatics and Computational Biology Conference (BBCC23) Naples, Italy
-[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
-
-* _Healthcare and beyond I_ - The 2nd Italian Conference on Big Data and Data Science (ITADATA23) Naples, Italy
-[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+* Advanced Methodologies for Visual Object Tracking [Link](https://hdl.handle.net/2434/931766){: .btn .btn--inverse}
 
 
-## Reviews
-I served as reviewer for the following international journals and conferences
+Master Degree in Applied Computer Science at University of Naples Parthenope
+[2018](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-### Journals
-
-* Information Sciences [Link](https://www.sciencedirect.com/journal/information-sciences)
-* Engineering Applications of Artificial Intelligence [Link](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-* Multimedia tools and applications [Link](https://link.springer.com/journal/11042)
-* Soft Computing [Link](https://link.springer.com/journal/500)
-* Mathematics [Link](https://www.mdpi.com/journal/mathematics)
-* Simmetry [Link](https://www.mdpi.com/journal/symmetry)
-* Electronics [Link](https://www.mdpi.com/journal/electronics)
-* Sensors [Link](https://www.mdpi.com/journal/sensors)
-
-
-### Conferences
-
-* The International Joint Conference on Neural Networks
+* Emotion Recognition by Deep Pyramidal Spatio-Temporal Learning 
