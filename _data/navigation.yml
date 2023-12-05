@@ -6,9 +6,7 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teach/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Conferences"
+    url: /conferences/
+  - title: "Reviews"
+    url: /reviews/
