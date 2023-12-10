@@ -5,11 +5,21 @@ classes: wide
 permalink: /conferences/
 ---
 
+### Special Session Organization
+
+* _A Human-Centric Perspective of Explainability, Interpretability and Resilience in Computer Vision_ 
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+The International Joint Conference on Neural Networks (IJCNN2024) at The IEEE World Congress on Computational Intelligence (IEEE WCCI 2024), Yokohama, Japan
+
 ### Publication Chair
 
 * The 2nd Italian Conference on Big Data and Data Science (ITADATA23) Naples, Italy
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
+### Scientific Committes
+
+The 18th Bioinformatics and Computational Biology Conference (BBCC23) Naples, Italy
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Session Chair
 
