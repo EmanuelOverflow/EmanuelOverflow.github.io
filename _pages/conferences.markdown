@@ -17,7 +17,7 @@ permalink: /conferences/
 
 ### Scientific Committes
 
-The 18th Bioinformatics and Computational Biology Conference (BBCC23) Naples, Italy
+* The 18th Bioinformatics and Computational Biology Conference (BBCC23) Naples, Italy
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Session Chair
