@@ -58,7 +58,7 @@ permalink: /teach/
 
 ### Supervised Thesis
 
-#### Applied Computer Science (Machine Leraning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"} 
+#### Applied Computer Science (Machine Learning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"} 
 
 * Sparse MiT R-CNN: a transformer-based two-stage object detector
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
