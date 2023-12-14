@@ -7,7 +7,7 @@ permalink: /teach/
 
 ## University of Naples Parthenope
 
-### Computer Science
+### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
 * Computer Networks
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
@@ -17,7 +17,7 @@ permalink: /teach/
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 
-### Ship Management
+### Ship Management [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
 * Introduction to Computer Science
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
