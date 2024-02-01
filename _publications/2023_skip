@@ -4,6 +4,7 @@ title: "Skip-SegFormer Efficient Semantic Segmentation for urban driving"
 authors: Andrea Lombardi, Emanuel Di Nardo, Angelo Ciaramella
 publication: Ital-IA 2023
 year: 2023
+month: 4
 link: https://ceur-ws.org/Vol-3486/48.pdf
 bibtex: |
   @article{lombardi2022skip,

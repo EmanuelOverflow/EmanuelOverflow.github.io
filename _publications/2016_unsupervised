@@ -4,6 +4,7 @@ title: Unsupervised cyber bullying detection in social networks
 authors: Michele Di Capua, Emanuel Di Nardo, Alfredo Petrosino
 publication: 23rd International conference on pattern recognition (ICPR)
 year: 2016
+month: 1
 doi: https://doi.org/10.1109/ICPR.2016.7899672
 bibtex: |
   @inproceedings{di2016unsupervised,

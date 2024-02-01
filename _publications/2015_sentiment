@@ -4,6 +4,7 @@ title: An architecture for sentiment analysis in twitter
 authors: Michele Di Capua, Emanuel Di Nardo, Alfredo Petrosino
 publication: Proceed. of Int. Conference on E-learning, Germany
 year: 2015
+month: 1
 link: https://www.researchgate.net/profile/Alfredo-Petrosino/publication/281004665_An_Architecture_for_Sentiment_Analysis_in_Twitter/links/55d0a49508ae6a881385e4c2/An-Architecture-for-Sentiment-Analysis-in-Twitter.pdf
 bibtex: |
   @inproceedings{di2015architecture,

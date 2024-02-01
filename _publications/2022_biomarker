@@ -4,6 +4,7 @@ title: "A new biomarker panel of ultraconserved long non-coding RNAs for bladder
 authors: Angelo Ciaramella, Emanuel Di Nardo, Daniela Terracciano, Lia Conte, Ferdinando Febbraio, Amelia Cimmino
 publication: BMC bioinformatics
 year: 2022
+month: 1
 doi: https://doi.org/10.1186/s12859-023-05167-6
 bibtex: |
   @article{ciaramella2022new,

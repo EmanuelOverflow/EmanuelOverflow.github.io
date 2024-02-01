@@ -4,6 +4,7 @@ title: "Power Prediction of a 15,000 TEU Containership: Deep-Learning Algorithm 
 authors: Alessandro La Ferlita, Yan Qi, Emanuel Di Nardo, Karoline Moenster, Thomas E Schellin, Ould EL Moctar, Christoph Rasewsky, Angelo Ciaramella
 publication: Journal of Marine Science and Engineering
 year: 2023
+month: 9
 doi: https://doi.org/10.3390/jmse11101854
 bibtex: |
     @article{la2023power,

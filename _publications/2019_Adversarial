@@ -4,6 +4,7 @@ title: "Adversarial Learning for Visual Tracking Research Idea"
 authors: Emanuel Di Nardo
 publication: Discussion and Doctoral Consortium papers of AI*IA 2019
 year: 2019
+month: 1
 link: https://ceur-ws.org/Vol-2495/paper12.pdf
 bibtex: |
   @inproceedings{di2019adversarial,

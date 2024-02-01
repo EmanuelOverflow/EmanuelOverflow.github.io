@@ -4,6 +4,7 @@ title: Parallel implementation of a machine learning algorithm on GPU
 authors: Salvatore Cuomo, Pasquale De Michele, Emanuel Di Nardo, Livia Marcellino
 publication: International Journal of Parallel Programming
 year: 2018
+month: 1
 doi: https://doi.org/10.1007/s10766-017-0554-6
 bibtex: |
   @article{cuomo2018parallel,

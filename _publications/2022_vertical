@@ -4,6 +4,7 @@ title: "Deep Neural Network (DNN) Method to predict the displacement behavior of
 authors: Alessandro La Ferlita, Emanuel Di Nardo, Massimo Macera, Thomas Lindemann, Angelo Ciaramella, Patrick Kaeding
 publication: Technology and Science for the Ships of the Future
 year: 2022
+month: 1
 doi: https://doi.org/10.3233/PMST220013
 bibtex: |
   @incollection{la2022deep,

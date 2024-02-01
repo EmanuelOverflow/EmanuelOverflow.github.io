@@ -4,6 +4,7 @@ title: "A Deep Neural Network to Predict the Residual Hull Girder Strength"
 authors: Alessandro La Ferlita, Emanuel Di Nardo, Massimo Macera, Thomas Lindemann, Angelo Ciaramella, Nikolaos Koulianos
 publication: SNAME Maritime Convention
 year: 2022
+month: 1
 doi: https://doi.org/10.5957/SMC-2022-074
 bibtex: |
     @inproceedings{la2022deep,

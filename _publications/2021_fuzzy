@@ -4,6 +4,7 @@ title: "Emotion recognition at the edge with AI specific low power architectures
 authors: Emanuel Di Nardo, Angelo Ciaramella
 publication: International Workshop on Fuzzy Logic and Applications 2021
 year: 2021
+month: 1
 link: https://ceur-ws.org/Vol-3074/paper27.pdf
 bibtex: |
   @inproceedings{di2021advanced,
