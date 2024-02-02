@@ -22,7 +22,7 @@ author_profile: true
 }
 
 </style>
-{% assign publications = site.publication | group_by: "year" | sort: "month" | reverse %}
+{% assign publications = site.publication | sort: "year" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
   <h2>{{ pub.title }}</h2>
