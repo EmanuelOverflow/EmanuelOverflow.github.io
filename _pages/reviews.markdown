@@ -12,7 +12,7 @@ I served as reviewer for the following international journals and conferences
 * Information Sciences [Link](https://www.sciencedirect.com/journal/information-sciences){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 * The Journal of Supercomputing [Link](https://link.springer.com/journal/11227){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 * Journal of Ambient Intelligence and Humanized Computing [Link](https://link.springer.com/journal/12652){: .btn .btn--inverse style="font-size: 0.5em !important;"}
-* Image and Vision Computing [Link](https://www.sciencedirect.com/journal/image-and-vision-computing)
+* Image and Vision Computing [Link](https://www.sciencedirect.com/journal/image-and-vision-computing){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 * Engineering Applications of Artificial Intelligence [Link](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 * Multimedia tools and applications [Link](https://link.springer.com/journal/11042){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 * Soft Computing [Link](https://link.springer.com/journal/500){: .btn .btn--inverse style="font-size: 0.5em !important;"}

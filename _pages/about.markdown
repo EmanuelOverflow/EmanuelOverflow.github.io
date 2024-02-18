@@ -15,6 +15,7 @@ Member of the following associations:
 
 * AIxIA
 * CVPL
+* IEEE
 
 
 ## Education
