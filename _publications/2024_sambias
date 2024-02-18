@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Competitive advantage in healthcare based on augmentation of clinical images with artificial intelligence: case study of the 'Sambias' project"
+authors: Alessandra D'Amico, Michele Di Capua, Emanuel Di Nardo, Joanna Rosak-Szyrocka, Giuseppe Tortorella, Giuseppe Festa
+publication: International Journal of Managerial and Financial Accounting
+year: 2024
+month: 1
+doi: https://doi.org/10.1504/IJMFA.2024.135364
+bibtex: |
+    @article{d2024competitive,
+    title={Competitive advantage in healthcare based on augmentation of clinical images with artificial intelligence: case study of the'Sambias' project},
+    author={D'Amico, Alessandra and Capua, Michele Di and Nardo, Emanuel Di and Rosak-Szyrocka, Joanna and Tortorella, Giuseppe and Festa, Giuseppe},
+    journal={International Journal of Managerial and Financial Accounting},
+    volume={16},
+    number={1},
+    pages={1--16},
+    year={2024},
+    publisher={Inderscience Publishers (IEL)}
+    }
+---
