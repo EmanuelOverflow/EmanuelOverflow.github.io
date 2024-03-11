@@ -1,0 +1,27 @@
+---
+layout: default
+title: "A 3D-CNNs Approach to Classify Users' Emotion through EEG-based Topographical Maps in HRI"
+authors: Lorenzo D'Errico, Emanuel di Nardo, Angelo Ciaramella, Mariacarla Staffa
+publication: "HRI '24: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction"
+year: 2024
+month: 3
+doi: https://doi.org/10.1145/3610978.3640548
+bibtex: |
+    @inproceedings{10.1145/3610978.3640548,
+    author = {D'Errico, Lorenzo and di Nardo, Emanuel and Ciaramella, Angelo and Staffa, Mariacarla},
+    title = {A 3D-CNNs Approach to Classify Users' Emotion through EEG-based Topographical Maps in HRI},
+    year = {2024},
+    isbn = {9798400703232},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3610978.3640548},
+    doi = {10.1145/3610978.3640548},
+    abstract = {Recent research has demonstrated the use of socially assistive robotics (SAR) in a variety of operational contexts where facilitating human-robot interaction and building rapport depend on eliciting positive sensations. The fact that different people express and feel emotions in different ways presents a huge bias and makes it challenging to identify and differentiate between emotions, even with the aid of artificial intelligence techniques. This is one of the biggest challenges. Using objective rather than subjective indicators, such as biosignals, as emotional feature discriminators can close this gap. Previous studies investigated the use of EEG measurements to classify emotions in HRI by looking at a range of classification methods, such as the use of MLP models and global optimization algorithms applied to methods like Support Vector Machine, Random Forest, Decision Tree, K-Nearest Neighbor, and Deep Neural Network, applied to both raw and derived signal features (e.g., valence, arousal, PSD, etc.). This paper introduces a novel approach that employs a 3D convolutional neural network (3D-CNN) for topographic maps obtained from EEG. As far as we are aware, this method has not yet been researched in this area. The proposed model achieved an impressive classification accuracy of 99.2\%, successfully distinguishing between positive and negative emotions and suggesting that the use of a transformation of EEG data into images may be a viable solution because it allows the use of more accurate classification models. The results of the presented model are consistent with the best state-of-the-art models.},
+    booktitle = {Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction},
+    pages = {397–401},
+    numpages = {5},
+    keywords = {3D-resnet, EEG-based emotion recognition in SAR, emotion classification, topomap},
+    location = {<conf-loc>, <city>Boulder</city>, <state>CO</state>, <country>USA</country>, </conf-loc>},
+    series = {HRI '24}
+    }
+---
