@@ -22,9 +22,12 @@ I served as reviewer for the following international journals and conferences
 * Electronics [Link](https://www.mdpi.com/journal/electronics){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 * Sensors [Link](https://www.mdpi.com/journal/sensors){: .btn .btn--inverse style="font-size: 0.5em !important;"}
 
-
 ### Conferences
 
 * The International Joint Conference on Neural Networks (IJCNN)
 * Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB)
 * IEEE Conference on Artificial Intelligence (IEEE CAI)
+
+### Workshops
+
+* Innovative Interfaces in Digital Healthcare Workshop (INI-DH)

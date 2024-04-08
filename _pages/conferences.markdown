@@ -23,6 +23,11 @@ permalink: /conferences/
 * The 18th Bioinformatics and Computational Biology Conference (BBCC23) Naples, Italy
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
+### Program Committes
+
+* Innovative Interfaces in Digital Healthcare Workshop (INI-DH 2024) - AVI2024 Arenzano (Genova), Italy
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 ### Session Chair
 
 * _Bioinformatics for Ecology_ - The 18th Bioinformatics and Computational Biology Conference (BBCC23) Naples, Italy
