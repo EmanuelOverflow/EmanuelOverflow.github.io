@@ -25,7 +25,7 @@ permalink: /conferences/
 
 ### Program Committe
 
-* Innovative Interfaces in Digital Healthcare Workshop (INI-DH 2024) - AVI2024 Arenzano (Genova), Italy
+* _Innovative Interfaces in Digital Healthcare Workshop_ (INI-DH 2024) at 17th International Conference on Advanced Visual Interfaces (AVI2024) Arenzano (Genova), Italy
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Session Chair
