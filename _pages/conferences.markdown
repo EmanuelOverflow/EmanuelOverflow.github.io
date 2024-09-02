@@ -25,10 +25,16 @@ permalink: /conferences/
 
 ### Program Committe
 
+* The 3rd Italian Conference on Big Data and Data Science (ITADATA24) Pisa, Italy
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 * _Innovative Interfaces in Digital Healthcare Workshop_ (INI-DH 2024) at 17th International Conference on Advanced Visual Interfaces (AVI2024) Arenzano (Genova), Italy
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Session Chair
+
+* _Special Session Mixed: A Human-Centric Perspective of AI and Advancements_ - The International Joint Conference on Neural Networks (IJCNN2024) at The IEEE World Congress on Computational Intelligence (IEEE WCCI 2024), Yokohama, Japan
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * _Bioinformatics for Ecology_ - The 18th Bioinformatics and Computational Biology Conference (BBCC23) Naples, Italy
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}

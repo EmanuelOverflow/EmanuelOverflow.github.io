@@ -5,17 +5,28 @@ classes: wide
 permalink: /teach/
 ---
 
+## University of Naples L'Orientale
+
+### Humanities and digital technologies [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"}
+
+* Computer Science Foundamentals, Programming and Artificial Intelligence
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+* Web Techonologies
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 ## University of Naples Parthenope
 
 ### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
+* Programming Language II
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 * Computer Networks
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-
 * Programming Language III 
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
-
 
 ### Ship Management [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
@@ -24,7 +35,11 @@ permalink: /teach/
 
 ### Master in Entrepreneurship and Innovation Management
 
+* ⁠iOS Basic Programming and Strategies
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 * Introduction to Machine Learning programming on Apple devices using CoreML kit
+[2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ---
@@ -32,13 +47,13 @@ permalink: /teach/
 ### Extra-curricula courses
 
 * Apple Foundation
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-
 ### Tutor
 
-* Apple Foundation 
+* Apple Foundation
 [2021](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2019](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
@@ -55,10 +70,15 @@ permalink: /teach/
 * Programming Language I (B.Sc. in Computer Science)
 [2016](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-
 ### Supervised Thesis
 
-#### Applied Computer Science (Machine Learning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"} 
+#### PhD
+
+* Assessment of Data-Driven Model for the Prediction of Ship Performances and Responses - Mechanical Engineering in Ship Technology - University of Duisburg-Essen
+[In progress](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_A. La Ferlita_
+
+#### Applied Computer Science (Machine Learning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
 * Sparse MiT R-CNN: a transformer-based two-stage object detector
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
@@ -84,6 +104,10 @@ _V. Silvio_
 _A. Lombardi_
 
 #### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
+
+* Soluzioni innovative per la gestione di corsi di formazione: il caso Parthenope Foundation Hub
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_M. Di Palma_
 
 * Super-resolution di agenti inquinanti atmosferici a bassa risoluzione 
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
@@ -120,3 +144,11 @@ _A. Di Marino_
 [2020](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 di machine learning multimodale  
 _A. Guerra_
+
+### Examiner
+
+#### Applied Computer Science (Machine Learning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"}
+
+* Interpretability and explainability of machine learning models for trustworthy artificial intelligence
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+_P. V. A. Srivatsava_
