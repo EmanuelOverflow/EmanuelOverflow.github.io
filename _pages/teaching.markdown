@@ -12,7 +12,7 @@ permalink: /teach/
 * Computer Science Foundamentals, Programming and Artificial Intelligence
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
-* Web Techonologies
+* Web Techonlogies
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ## University of Naples Parthenope
