@@ -7,7 +7,7 @@ permalink: /teach/
 
 ## University of Naples L'Orientale
 
-### Humanities and digital technologies [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"}
+### Humanities and Digital Technologies [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
 * Computer Science Foundamentals, Programming and Artificial Intelligence
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
