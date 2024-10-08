@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Recursive Learning Framework for Structured Data Agglomeration"
+authors: Angelo Ciaramella, Emanuel Di Nardo, Giuseppe Vettigli  
+publication: 2024 International Joint Conference on Neural Networks, IJCNN 2024
+year: 2024
+month: 6
+doi: 10.1109/IJCNN60899.2024.10650385
+bibtex: |
+    @inproceedings{ciaramella2024recursive,
+    title={Recursive Learning Framework for Structured Data Agglomeration},
+    author={Ciaramella, Angelo and Di Nardo, Emanuel and Vettigli, Giuseppe},
+    booktitle={2024 International Joint Conference on Neural Networks (IJCNN)},
+    pages={1--6},
+    year={2024},
+    organization={IEEE}
+    }
+---

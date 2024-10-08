@@ -1,0 +1,19 @@
+---
+layout: default
+title: "A framework of a data-driven model for ship performance"
+authors: Alessandro La Ferlita, Yan Qi, Emanuel Di Nardo, Ould El Moctar, Thomas Schellin, Angelo Ciaramella 
+publication: Ocean Engineering
+year: 2024
+month: 10
+doi: https://doi.org/10.1016/j.oceaneng.2024.118486
+bibtex: |
+    @article{la2024framework,
+    title={A framework of a data-driven model for ship performance},
+    author={La Ferlita, Alessandro and Qi, Yan and Di Nardo, Emanuel and El Moctar, Ould and Schellin, Thomas E and Ciaramella, Angelo},
+    journal={Ocean Engineering},
+    volume={309},
+    pages={118486},
+    year={2024},
+    publisher={Elsevier}
+    }
+---
