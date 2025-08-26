@@ -10,8 +10,8 @@ permalink: /teach/
 ### Humanities and Digital Technologies [\[M.A.\]](#){: .align-right style="text-decoration: none;"}
 
 * Computer Science Foundamentals, Programming and Artificial Intelligence
-[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * Artificial Intelligence And Big Geo-Data Management
 [2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
@@ -24,8 +24,8 @@ permalink: /teach/
 ### Computer Science [\[B.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
 * Programming Language II
-[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * Computer Networks
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
