@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Discrete Diffusion Model for Image Captioning by Self-Critical Learning"
+authors: Vincenzo Silvio, Emanuel Di Nardo, Angelo Ciaramella 
+publication: "Advanced Neural Artificial Intelligence: Theories and Applications"
+year: 2025
+month: 5
+doi: https://doi.org/10.1007/978-981-96-0994-9_17
+bibtex: |
+  @incollection{silvio2025discrete,
+  title={Discrete Diffusion Model for Image Captioning by Self-Critical Learning},
+  author={Silvio, Vincenzo and Di Nardo, Emanuel and Ciaramella, Angelo},
+  booktitle={Advanced Neural Artificial Intelligence: Theories and Applications},
+  pages={183--191},
+  year={2025},
+  publisher={Springer}
+  }
+---

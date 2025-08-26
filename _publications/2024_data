@@ -1,0 +1,20 @@
+---
+layout: default
+title: "A Data-Driven Model for Rapid CII Prediction"
+authors: Mühmer, Markus, et al.  
+publication: Journal of Marine Science and Engineering
+year: 2024
+month: 11
+doi: https://doi.org/10.3390/jmse12112048
+bibtex: |
+  @article{muhmer2024data,
+  title={A Data-Driven Model for Rapid CII Prediction},
+  author={M{\"u}hmer, Markus and La Ferlita, Alessandro and Geber, Evangelos and Ehlers, S{\"o}ren and Di Nardo, Emanuel and El Moctar, Ould and Ciaramella, Angelo},
+  journal={Journal of Marine Science and Engineering},
+  volume={12},
+  number={11},
+  pages={2048},
+  year={2024},
+  publisher={MDPI}
+  }
+---

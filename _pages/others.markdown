@@ -4,4 +4,4 @@ classes: wide
 title: Collaborations and events
 permalink: /collab/
 ---
-s
+

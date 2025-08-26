@@ -1,0 +1,18 @@
+---
+layout: default
+title: "G-Litter Marine Litter Dataset Augmentation with Diffusion Models and Large Language Models on GPU Acceleration"
+authors: Gennaro Mellone, Ciro Giuseppe De Vita, Emanuel Di Nardo, Giuseppe Coviello, Diana Di Luccio, Pietro Patrizio Ciro Aucelli, Angelo Ciaramella, Raffaele Montella
+publication: "33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)"
+year: 2025
+month: 3
+doi: https://doi.org/10.1109/PDP66500.2025.00081
+bibtex: |
+ @inproceedings{mellone2025g,
+  title={G-Litter Marine Litter Dataset Augmentation with Diffusion Models and Large Language Models on GPU Acceleration},
+  author={Mellone, Gennaro and De Vita, Ciro Giuseppe and Di Nardo, Emanuel and Coviello, Giuseppe and Di Luccio, Diana and Aucelli, Pietro Patrizio Ciro and Ciaramella, Angelo and Montella, Raffaele},
+  booktitle={2025 33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)},
+  pages={526--535},
+  year={2025},
+  organization={IEEE}
+ }
+---

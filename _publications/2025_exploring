@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Exploring the Effectiveness of Slot Attention-Based Classifier in Detecting Underwater Marine Litter: A Study"
+authors: Gennaro Mellone, Emanuel Di Nardo, Ciro Giuseppe De Vita, Raffaele Montella, Pietro Patrizio Ciro Aucelli, Angelo Ciaramella
+publication: "Advanced Neural Artificial Intelligence: Theories and Applications"
+year: 2025
+month: 5
+doi: https://doi.org/10.1007/978-981-96-0994-9_19
+bibtex: |
+  @incollection{mellone2025exploring,
+  title={Exploring the Effectiveness of Slot Attention-Based Classifier in Detecting Underwater Marine Litter: A Study},
+  author={Mellone, Gennaro and Di Nardo, Emanuel and De Vita, Ciro Giuseppe and Montella, Raffaele and Aucelli, Pietro Patrizio Ciro and Ciaramella, Angelo},
+  booktitle={Advanced Neural Artificial Intelligence: Theories and Applications},
+  pages={203--212},
+  year={2025},
+  publisher={Springer}
+  }
+---

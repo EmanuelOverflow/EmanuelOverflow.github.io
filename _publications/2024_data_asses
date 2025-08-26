@@ -1,0 +1,19 @@
+---
+layout: default
+title: "Data-driven model assessment: A comparative study for ship response determination"
+authors: Alessandro La Ferlita, Jens Ley, Yan Qi, Thomas Schellin, Emanuel Di Nardo, Ould El Moctar, Angelo Ciaramella
+publication: Ocean Engineering
+year: 2024
+month: 11
+doi: https://doi.org/10.1016/j.oceaneng.2024.119711
+bibtex: |
+  @article{la2024data,
+  title={Data-driven model assessment: A comparative study for ship response determination},
+  author={La Ferlita, Alessandro and Ley, Jens and Qi, Yan and Schellin, Thomas E and Di Nardo, Emanuel and El Moctar, Ould and Ciaramella, Angelo},
+  journal={Ocean Engineering},
+  volume={314},
+  pages={119711},
+  year={2024},
+  publisher={Elsevier}
+  }
+---
