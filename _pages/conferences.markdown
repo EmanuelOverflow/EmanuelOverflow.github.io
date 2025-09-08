@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Conferences
+title: Activities
 classes: wide
-permalink: /conferences/
+permalink: /activities/
 ---
 
 ### Workshop Organization
@@ -25,6 +25,12 @@ Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB202
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * _Generative AI for Medical and Healthcare System_ - 4th Edition of IEEE International Conference on ICT Solutions for e-Health (ICTS4eHealth 2024), Paris, France
+[2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+### Top Coordinator
+
+* _High Performance Computing for AI-driven Omics and Health Data Processing_ - Frontiers in High Performance Computing, 2025
+[Website](https://www.frontiersin.org/research-topics/73866/high-performance-computing-for-ai-driven-omics-and-health-data-processing){: .btn .btn--inverse target="_blank"}
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Publication Chair
