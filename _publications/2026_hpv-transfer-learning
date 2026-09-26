@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Domain-Adaptive Transfer Learning for HPV Lesion Classification in Whole Slide Images: A Patient-Level Pipeline Across the Cytology–Histology Continuum"
+authors: Annabella Di Mauro, Pasquale De Luca, Maria Lina Tornesello, Emanuel Di Nardo, Luca D'Anna, Andrea Cerasuolo, Veronica Sanna, Saverio Simonelli, Vincenzo Gigantino, Antonella Gioioso, Margherita Cerrone, Rossella De Cecio, Gerardo Ferrara, Livia Marcellino, Angelo Ciaramella
+publication: "Bioengineering"
+year: 2026
+month: 6
+doi: https://doi.org/10.3390/bioengineering13060664
+bibtex: |
+  @article{dimauro2026domain,
+  title={Domain-Adaptive Transfer Learning for HPV Lesion Classification in Whole Slide Images: A Patient-Level Pipeline Across the Cytology--Histology Continuum},
+  author={Di Mauro, Annabella and De Luca, Pasquale and Tornesello, Maria Lina and Di Nardo, Emanuel and D'Anna, Luca and Cerasuolo, Andrea and Sanna, Veronica and Simonelli, Saverio and Gigantino, Vincenzo and Gioioso, Antonella and Cerrone, Margherita and De Cecio, Rossella and Ferrara, Gerardo and Marcellino, Livia and Ciaramella, Angelo},
+  journal={Bioengineering},
+  volume={13},
+  number={6},
+  pages={664},
+  year={2026},
+  publisher={MDPI}
+  }
+---

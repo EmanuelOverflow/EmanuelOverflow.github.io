@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Visual Question Answering and XAI: Multimodal Approach for Automatic Diagnosis from Lung Radiographs"
+authors: Antonio Agliata, Vittorio Bilò, Mariano Caiazzo, Antonio Mario Caruso, Angelo Ciaramella, Emanuel Di Nardo, Antonio Pilato, Mariacarmen Sorrentino, Cosimo Vinci
+publication: "2025 IEEE Symposium on Computers and Communications (ISCC)"
+year: 2025
+month: 7
+doi: https://doi.org/10.1109/ISCC65549.2025.11326236
+bibtex: |
+  @inproceedings{agliata2025visual,
+  title={Visual Question Answering and XAI: Multimodal Approach for Automatic Diagnosis from Lung Radiographs},
+  author={Agliata, Antonio and Bil{\`o}, Vittorio and Caiazzo, Mariano and Caruso, Antonio Mario and Ciaramella, Angelo and Di Nardo, Emanuel and Pilato, Antonio and Sorrentino, Mariacarmen and Vinci, Cosimo},
+  booktitle={2025 IEEE Symposium on Computers and Communications (ISCC)},
+  pages={1--4},
+  year={2025},
+  organization={IEEE}
+  }
+---

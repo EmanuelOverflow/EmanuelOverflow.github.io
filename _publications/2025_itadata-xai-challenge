@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Bridging LLMs and Symbolic Reasoning in Educational QA Systems: Insights from the XAI Challenge at IJCNN 2025"
+authors: Long S. T. Nguyen, Khang H. N. Vo, Thu H. A. Nguyen, Tuan C. Bui, Duc Q. Nguyen, Thanh-Tung Tran, Anh D. Nguyen, Minh L. Nguyen, Fabien Baldacci, Thang H. Bui, Emanuel Di Nardo, Angelo Ciaramella, Son H. Le, Ihsan Ullah, Lorenzo Di Rocco, Tho T. Quan
+publication: "4th Italian Conference on Big Data and Data Science (ITADATA 2025), CEUR Workshop Proceedings, Vol-4152"
+year: 2025
+month: 9
+link: https://ceur-ws.org/Vol-4152/paper98.pdf
+bibtex: |
+  @inproceedings{nguyen2025bridging,
+  title={Bridging LLMs and Symbolic Reasoning in Educational QA Systems: Insights from the XAI Challenge at IJCNN 2025},
+  author={Nguyen, Long S. T. and Vo, Khang H. N. and Nguyen, Thu H. A. and Bui, Tuan C. and Nguyen, Duc Q. and Tran, Thanh-Tung and Nguyen, Anh D. and Nguyen, Minh L. and Baldacci, Fabien and Bui, Thang H. and Di Nardo, Emanuel and Ciaramella, Angelo and Le, Son H. and Ullah, Ihsan and Di Rocco, Lorenzo and Quan, Tho T.},
+  booktitle={CEUR Workshop Proceedings},
+  volume={4152},
+  year={2025}
+  }
+---

@@ -1,0 +1,19 @@
+---
+layout: default
+title: "A hybrid CFD-DNN framework for ship motion prediction based on residual learning"
+authors: Yan Qi, Alessandro La Ferlita, Emanuel Di Nardo, Markus Mühmer, Ould el Moctar
+publication: "Ocean Engineering, Volume 353, Part 2"
+year: 2026
+month: 4
+doi: https://doi.org/10.1016/j.oceaneng.2026.124716
+bibtex: |
+  @article{qi2026hybrid,
+  title={A hybrid CFD-DNN framework for ship motion prediction based on residual learning},
+  author={Qi, Yan and La Ferlita, Alessandro and Di Nardo, Emanuel and M{\"u}hmer, Markus and El Moctar, Ould},
+  journal={Ocean Engineering},
+  volume={353},
+  pages={124716},
+  year={2026},
+  publisher={Elsevier}
+  }
+---

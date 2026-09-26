@@ -41,6 +41,7 @@ permalink: /teach/
 ### Master in Entrepreneurship and Innovation Management
 
 * Agentic AI and Intelligent Systems: Agentic and Generative Technologies for Innovation
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * ⁠iOS Basic Programming and Strategies
@@ -58,6 +59,11 @@ permalink: /teach/
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 [2022](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+### PLS (Piano Lauree Scientifiche)
+
+* Fondamenti di Intelligenza Artificiale - docenti di Informatica, ITIS "Galileo Ferraris", Scampia (Napoli)
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Tutor
 
@@ -89,15 +95,18 @@ _A. La Ferlita_
 #### Applied Computer Science (Machine Learning and Big Data) [\[M.Sc.\]](#){: .align-right style="text-decoration: none;"}
 
 * Image Classification Using Kolmogorov–Arnold Networks With Positional Embeddings
-[In Progress](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"} 
+[Co-Examiner](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _L. Marino_
 
 * Decision Making Models Based On XAI
-[In Progress](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"} 
+[Co-Examiner](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _D. De Angelis_
 
 * Marine Image Processing
-[In Progress](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"} 
+[Co-Examiner](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}  
 _M. Peluso_
 
 * Interpretability and explainability of machine learning models for trustworthy artificial intelligence

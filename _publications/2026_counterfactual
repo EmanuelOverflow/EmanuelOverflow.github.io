@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Unveiling AI Decisions: A Unified Approach Through Explainable Learning for Optimizing Counterfactual Explanations"
+authors: Gennaro Mellone, Emanuel Di Nardo, Alberto Mennella, Pietro Patrizio Ciro Aucelli, Angelo Ciaramella
+publication: "Neural Networks: Overview of Current Theories and Applications"
+year: 2026
+month: 4
+doi: https://doi.org/10.1007/978-981-95-4072-3_39
+bibtex: |
+  @incollection{mellone2026unveiling,
+  title={Unveiling AI Decisions: A Unified Approach Through Explainable Learning for Optimizing Counterfactual Explanations},
+  author={Mellone, Gennaro and Di Nardo, Emanuel and Mennella, Alberto and Aucelli, Pietro Patrizio Ciro and Ciaramella, Angelo},
+  booktitle={Neural Networks: Overview of Current Theories and Applications},
+  series={Smart Innovation, Systems and Technologies},
+  volume={459},
+  pages={457--467},
+  year={2026},
+  publisher={Springer}
+  }
+---

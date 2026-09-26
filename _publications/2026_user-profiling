@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Advancing User Profiling: A Comprehensive Analysis of 200k+ Physicians Using LDA Topic Extraction"
+authors: Antonio Agliata, Angelo Ciaramella, Emanuel Di Nardo, Alfonso Moscato, Luca Rizzuti, Bruno Sfogliarini, Mariacarmen Sorrentino
+publication: "Neural Networks: Overview of Current Theories and Applications"
+year: 2026
+month: 4
+doi: https://doi.org/10.1007/978-981-95-4072-3_45
+bibtex: |
+  @incollection{agliata2026advancing,
+  title={Advancing User Profiling: A Comprehensive Analysis of 200k+ Physicians Using LDA Topic Extraction},
+  author={Agliata, Antonio and Ciaramella, Angelo and Di Nardo, Emanuel and Moscato, Alfonso and Rizzuti, Luca and Sfogliarini, Bruno and Sorrentino, Mariacarmen},
+  booktitle={Neural Networks: Overview of Current Theories and Applications},
+  series={Smart Innovation, Systems and Technologies},
+  volume={459},
+  pages={537--554},
+  year={2026},
+  publisher={Springer}
+  }
+---

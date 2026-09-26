@@ -27,6 +27,12 @@ Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB202
 * _Generative AI for Medical and Healthcare System_ - 4th Edition of IEEE International Conference on ICT Solutions for e-Health (ICTS4eHealth 2024), Paris, France
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
+### Guest Editor
+
+* _Transport-Based and Flow Map Learning Generative Models: Advances and Perspectives_ - Special Issue on Information (MDPI)
+[Website](https://www.mdpi.com/journal/information/special_issues/HFDGUNVPH8){: .btn .btn--inverse target="_blank"}
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 ### Top Coordinator
 
 * _High Performance Computing for AI-driven Omics and Health Data Processing_ - Frontiers in High Performance Computing, 2025
@@ -49,6 +55,9 @@ Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB202
 [2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Program Committe
+
+* The 5th Italian Conference on Big Data and Data Science (ITADATA26) Bari, Italy
+[2026](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * XX Conference on Color, Naples, Italy
 [2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
@@ -73,3 +82,12 @@ Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB202
 * _CCIaaSA2023: Cloud Computing on Infrastructure as a service and its Applications_ - 31st Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP2023) Naples, Italy
 [2023](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
+### Invited Speaker
+
+* _Adaptability of KANs as activation functions in classical MLP networks_ - Numerical Issues in Machine Learning for Dynamical Systems at Società Italiana di Matematica Applicata e Industriale (SIAMI2025), Trieste, Italy
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+### Speaker
+
+* The 20th conference on Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB2025), Milan, Italy
+[2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}

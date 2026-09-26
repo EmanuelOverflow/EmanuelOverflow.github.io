@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Emotion Recognition Tool for Brain-Computer Interface"
+authors: Davide De Angelis, Manuel Manco, Emilio Garzia, Emanuel Di Nardo, Angelo Ciaramella
+publication: "Neural Networks: Overview of Current Theories and Applications"
+year: 2026
+month: 4
+doi: https://doi.org/10.1007/978-981-95-4072-3_11
+bibtex: |
+  @incollection{deangelis2026emotion,
+  title={Emotion Recognition Tool for Brain-Computer Interface},
+  author={De Angelis, Davide and Manco, Manuel and Garzia, Emilio and Di Nardo, Emanuel and Ciaramella, Angelo},
+  booktitle={Neural Networks: Overview of Current Theories and Applications},
+  series={Smart Innovation, Systems and Technologies},
+  volume={459},
+  pages={121--132},
+  year={2026},
+  publisher={Springer}
+  }
+---

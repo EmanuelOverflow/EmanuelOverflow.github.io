@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Stable and Efficient Gaussian-Based Kolmogorov–Arnold Networks"
+authors: Pasquale De Luca, Emanuel Di Nardo, Livia Marcellino, Angelo Ciaramella
+publication: "Mathematics"
+year: 2026
+month: 1
+doi: https://doi.org/10.3390/math14030513
+bibtex: |
+  @article{deluca2026stable,
+  title={Stable and Efficient Gaussian-Based Kolmogorov--Arnold Networks},
+  author={De Luca, Pasquale and Di Nardo, Emanuel and Marcellino, Livia and Ciaramella, Angelo},
+  journal={Mathematics},
+  volume={14},
+  number={3},
+  pages={513},
+  year={2026},
+  publisher={MDPI}
+  }
+---

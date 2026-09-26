@@ -1,0 +1,18 @@
+---
+layout: default
+title: "AI and HPC for intense rain event early warning leveraging real-time weather radar"
+authors: Diana Di Luccio, Ciro Giuseppe De Vita, Gennaro Mellone, Dante D. Sánchez-Gallegos, Pasquale Corvino, Mario Di Sarno, Pasquale De Luca, Emanuel Di Nardo, Vincenzo Capozzi, Vincenzo Bucciero, Raffaele Montella
+publication: "2025 IEEE International Conference on eScience (eScience)"
+year: 2025
+month: 9
+doi: https://doi.org/10.1109/eScience65000.2025.00048
+bibtex: |
+  @inproceedings{diluccio2025ai,
+  title={AI and HPC for intense rain event early warning leveraging real-time weather radar},
+  author={Di Luccio, Diana and De Vita, Ciro Giuseppe and Mellone, Gennaro and S{\'a}nchez-Gallegos, Dante D. and Corvino, Pasquale and Di Sarno, Mario and De Luca, Pasquale and Di Nardo, Emanuel and Capozzi, Vincenzo and Bucciero, Vincenzo and Montella, Raffaele},
+  booktitle={2025 IEEE International Conference on eScience (eScience)},
+  pages={315--316},
+  year={2025},
+  organization={IEEE}
+  }
+---
