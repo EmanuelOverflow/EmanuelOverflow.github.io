@@ -39,6 +39,11 @@ Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB202
 [Website](https://www.frontiersin.org/research-topics/73866/high-performance-computing-for-ai-driven-omics-and-health-data-processing){: .btn .btn--inverse target="_blank"}
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
+### Local Arrangements Chair
+
+* The 22nd IEEE International Conference on eScience (eScience 2026), Naples, Italy
+[2026](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 ### Publication Chair
 
 * The 2nd Italian Conference on Big Data and Data Science (ITADATA23) Naples, Italy
@@ -69,6 +74,15 @@ Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB202
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Session Chair
+
+* _Co-design, Engagement and Learning through Citizen Science_ - INSTILL 2026 Workshop at The 22nd IEEE International Conference on eScience (eScience 2026), Naples, Italy
+[2026](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+* _Applications II (Scientific Applications)_ - Main Conference of The 22nd IEEE International Conference on eScience (eScience 2026), Naples, Italy
+[2026](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
+* _Systems & Infrastructure II_ - Main Conference of The 22nd IEEE International Conference on eScience (eScience 2026), Naples, Italy
+[2026](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * _Special Session Mixed: A Human-Centric Perspective of AI and Advancements_ - The International Joint Conference on Neural Networks (IJCNN2024) at The IEEE World Congress on Computational Intelligence (IEEE WCCI 2024), Yokohama, Japan
 [2024](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
