@@ -7,10 +7,16 @@ permalink: /activities/
 
 ### Workshop Organization
 
+* _Data-Driven Decision-Making: Uncertainty and Reliable Decision-Making by Generative AI_ - The International Joint Conference on Neural Networks (IJCNN2026) at The IEEE World Congress on Computational Intelligence (IEEE WCCI 2026), Maastricht, The Netherlands
+[2026](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
+
 * _Trustworthiness and Reliability in Neurosymbolic AI_ - The International Joint Conference in Neural Networks 2025 (IJCNN2025), Rome, Italy
 [2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 ### Challenge Organization
+
+* _EXACT26: The 2nd International XAI Challenge for Transparent Educational Question-Answering_ - The International Joint Conference on Neural Networks (IJCNN2026) at The IEEE World Congress on Computational Intelligence (IEEE WCCI 2026), Maastricht, The Netherlands
+[2026](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
 
 * _Explainable AI for Educational Question-Answering_ - Trustworthiness and Reliability in Neurosymbolic AI Workshop at he International Joint Conference in Neural Networks 2025 (IJCNN2025), Rome, Italy
 [2025](#){: .btn .btn--light-outline .align-right style="font-size: 0.5em !important;"}
